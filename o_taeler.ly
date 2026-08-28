@@ -49,14 +49,14 @@ sopranMusic = {
 %%% ------------------------------------------------------------
 altMusic = {
   \global
-  g'4\p |
-  ees'4 c'4 bes4. bes8 |
+  bes'4\p |
+  g'4 ees'4 d'4. ees'8 |
   ees'2 d'4 bes4 |
-  ees'4\< ees'4 aes'4. aes'8 |
-  f'2.\f g'4 |
-  ees'4\p c'4 bes4. bes8 |
+  ees'4\< ees'4 f'4. f'8 |
+  bes'2.\f as'4 |
+  g'4\p ees'4 ees'4. ees'8 |
   ees'2 d'4 bes4 |
-  ees'4 ees'4 d'4. d'8 |
+  ees'4 ees'4 ees'4. ees'8 |
   bes2 r4 bes4\cresc |
   bes4. bes8 ees'4 d'4 |
   bes2 d'2 |
@@ -168,7 +168,7 @@ strophenDrei = \lyricmode {
       \new Voice = "sopran" { \sopranMusic }
     >>
     \new Lyrics \lyricsto "sopran" \strophenEins
-    \new Lyrics \lyricsto "sopran" \strophenZwei
+
     \new Lyrics \lyricsto "sopran" \strophenDrei
 
     \new Staff \with { instrumentName = "Alt" shortInstrumentName = "A." } <<
