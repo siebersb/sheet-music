@@ -168,18 +168,24 @@ strophenDrei = \lyricmode {
       \new Voice = "sopran" { \sopranMusic }
     >>
     \new Lyrics \lyricsto "sopran" \strophenEins
-
+    \new Lyrics \lyricsto "sopran" \strophenZwei
     \new Lyrics \lyricsto "sopran" \strophenDrei
 
     \new Staff \with { instrumentName = "Alt" shortInstrumentName = "A." } <<
       \clef treble
       \new Voice = "alt" { \altMusic }
     >>
+    \new Lyrics \lyricsto "alt" \strophenEins
+    \new Lyrics \lyricsto "alt" \strophenZwei
+    \new Lyrics \lyricsto "alt" \strophenDrei
 
     \new Staff \with { instrumentName = "Tenor" shortInstrumentName = "T." } <<
       \clef "treble_8"
       \new Voice = "tenor" { \tenorMusic }
     >>
+    \new Lyrics \lyricsto "tenor" \strophenEins
+    \new Lyrics \lyricsto "tenor" \strophenZwei
+    \new Lyrics \lyricsto "tenor" \strophenDrei
 
     \new Staff \with { instrumentName = "Bass" shortInstrumentName = "B." } <<
       \clef bass
