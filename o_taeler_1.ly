@@ -38,9 +38,9 @@ sopranMusic = {
   c''4.\cresc f'8 g'4 as'4 |
   g'2 r4 bes'4\f |
   bes'4 es''4 g''4. f''8 |
-  es''4 d''4 c''4 b'4 |
-  c''4\dim r4 f'4 r4 |
-  as'2.\p d'4 |
+  es''4 ( d''4) c''4\dim b'4 |
+  c''4 r4 f'4\p r4 |
+  as'2. d'4 |
   ees'1\fermata \bar "|."
 }
 
@@ -55,21 +55,21 @@ altMusic = {
   ees'4\< ees'4 f'4. f'8 |
   bes'2.\f as'4 |
   g'4\p ees'4 ees'4. ees'8 |
-  ees'2 d'4 bes4 |
-  ees'4 ees'4 ees'4. ees'8 |
-  bes2 r4 bes4\cresc |
-  bes4. bes8 ees'4 d'4 |
-  bes2 d'2 |
-  ees'4\f ees'8. ees'16 ees'4 aes'4 |
-  ees'2.\> f'4 |
-  f'4\pp g'4 f'4. ees'8 |
-  d'2 ees'4 ees'4 |
-  ees'4.\cresc d'8 c'4 d'4 |
-  bes2 r4 g'4\f |
-  g'4 f'4 ees'4. f'8 |
-  ees'2 ees'4 f'4 |
-  ees'2\dim d'2 |
-  ees'2.\p d'4 |
+  ees'2 ees'4 ees'4 |
+  ees'4 ees'4 d'4. bes8 |
+  bes4 bes4 ees'4 d'4 \cresc |
+  c'2 ( f'4) f'4 |
+  d'2 g'2 |
+  e'4\f e'8. e'16 e'4 e'4 |
+  a'2.\> fis'4 |
+  g'4\pp ees'4 ees'4 ees'4 |
+  ees'2 ees'4 ees'4 |
+  ees'4.\cresc d'8 d'4 d'4 |
+  ees'2 r4 f'4\f |
+  g'4 ees'4 d'4. d'8 |
+  g'4 ( f'4) ees'4\dim f'4 |
+  (ees'1 \> |
+  ees'4) d'4\p c'4 bes4 |
   bes1\fermata \bar "|."
 }
 
@@ -87,18 +87,18 @@ tenorMusic = {
   c'2 c'4 as4 |
   f4 f4 f4. aes8 |
   g4 g4 c' bes\cresc |
-  g4. g8 c'4 bes4 |
-  g2 bes2 |
-  bes4\f bes8. bes16 g4 ees'4 |
-  c'2.\> d'4 |
-  d'4\pp ees'4 d'4. bes8 |
-  bes2 bes4 c'4 |
-  bes4.\cresc bes8 aes4 bes4 |
-  g2 r4 ees'4\f |
-  bes4 f4 aes4. f8 |
-  c'2 bes4 d'4 |
-  bes2\dim bes2 |
-  bes2.\p aes4 |
+  a2 ( bes4) bes4 |
+  b2 c'2 |
+  cis'4\f cis'8. cis'16 cis'4 cis'4 |
+  d'2\> cis'2 |
+  bes4\pp bes4 bes4 bes4 |
+  c'2 c'4 f4 |
+  aes4.\cresc aes8 g4 f4 |
+  ees4 r4 r4 d'4\f |
+  ees'4 bes4 b4. b8 |
+  b2 c'4 d'4 |
+  c'4\dim r4 c'4 r4 |
+  f2.\p aes4 |
   g1\fermata \bar "|."
 }
 
