@@ -24,23 +24,23 @@ sopranMusic = {
   g'4 ees'4 d'4. ees'8 |
   g'2 f'4 ees'4 |
   aes'4\< g'4 c''4. c''8 |
-  bes'2.\f bes'4 |
-  g'4\p ees'4 d'4. ees'8 |
-  g'2 f'4 ees'4 |
-  aes'4 g'4 f'4. f'8 |
-  ees'2 r4 ees'4\cresc |
-  ees'4. f'8 g'4 f'4 |
-  ees'2 f'2 |
-  g'4\f g'8. aes'16 bes'4 c''4 |
-  a'2.\> bes'4 |
-  bes'4\pp bes'4 aes'4. g'8 |
-  f'2 g'4 aes'4 |
-  g'4.\cresc f'8 ees'4 f'4 |
-  ees'2 r4 bes'4\f |
-  ees''4 d''4 c''4. bes'8 |
-  c''2 bes'4 aes'4 |
-  g'2\dim f'2 |
-  g'2.\p f'4 |
+  bes'2. bes'4\f |
+  es''4 bes'4 as'4. g'8 |
+  g'2 f'4 c''4\p |
+  c''4 f'4 as'4. d'8 |
+  ees'2 r4 g'4\cresc |
+  g'4. f'8 f'4 f'4 |
+  as'2 g'2 |
+  bes'4\f bes'8. bes'16 bes'4 bes'4 |
+  a'2.\> d''4 |
+  ees''4\pp bes'4 aes'4 g'4 |
+  g'2 f'4 c''4 |
+  c''4.\cresc f'8 g'4 as'4 |
+  g'2 r4 bes'4\f |
+  bes'4 es''4 g''4. f''8 |
+  es''4 d''4 c''4 b'4 |
+  c''4\dim r4 f'4 r4 |
+  as'2.\p d'4 |
   ees'1\fermata \bar "|."
 }
 
