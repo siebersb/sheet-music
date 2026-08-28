@@ -2,7 +2,6 @@
 
 \header {
   title = "Abschied vom Walde"
-  subtitle = "Sechs Lieder op. 59, Nr. 3"
   composer = "Felix Mendelssohn Bartholdy (1809–1847)"
   poet = "Joseph von Eichendorff (1788–1857)"
   tagline = ##f
@@ -11,7 +10,6 @@
 global = {
   \key es \major
   \time 4/4
-  \tempo "Andante non lento" 4 = 76
   \partial 4
 }
 
@@ -28,8 +26,8 @@ sopranMusic = {
   es''4 bes'4 as'4. g'8 |
   g'2 f'4 c''4\p |
   c''4 f'4 as'4. d'8 |
-  ees'2 r4 g'4\cresc |
-  g'4. f'8 f'4 f'4 |
+  ees'2 r4 g'4 |
+  g'4.\cresc f'8 f'4 f'4 |
   as'2 g'2 |
   bes'4\f bes'8. bes'16 bes'4 bes'4 |
   a'2.\> d''4 |
@@ -53,22 +51,22 @@ altMusic = {
   g'4 ees'4 d'4. ees'8 |
   ees'2 d'4 bes4 |
   ees'4\< ees'4 f'4. f'8 |
-  bes'2.\f as'4 |
-  g'4\p ees'4 ees'4. ees'8 |
-  ees'2 ees'4 ees'4 |
+  bes'2. as'4\f |
+  g'4 ees'4 ees'4. ees'8 |
+  ees'2 ees'4 ees'4\p |
   ees'4 ees'4 d'4. bes8 |
-  bes4 bes4 ees'4 d'4 \cresc |
+  bes4 bes4 ees'4\cresc d'4 |
   c'2 ( f'4) f'4 |
   d'2 g'2 |
   e'4\f e'8. e'16 e'4 e'4 |
-  a'2.\> fis'4 |
+  a'2\> fis'2 |
   g'4\pp ees'4 ees'4 ees'4 |
   ees'2 ees'4 ees'4 |
   ees'4.\cresc d'8 d'4 d'4 |
   ees'2 r4 f'4\f |
   g'4 ees'4 d'4. d'8 |
   g'4 ( f'4) ees'4\dim f'4 |
-  (ees'1 \> |
+  (ees'1\> |
   ees'4) d'4\p c'4 bes4 |
   bes1\fermata \bar "|."
 }
@@ -82,11 +80,11 @@ tenorMusic = {
   g4 ees4 d4. ees8 |
   bes2 as4 g4 |
   c'4\< bes4 d'4. d'8 |
-  ees'2.\f d'4 |
-  ees'4\p ees'4 c'4. c'8 |
-  c'2 c'4 as4 |
+  ees'2. d'4\f |
+  ees'4 ees'4 c'4. c'8 |
+  c'2 c'4 as4\p |
   f4 f4 f4. aes8 |
-  g4 g4 c' bes\cresc |
+  g4 g4 c'\cresc bes |
   a2 ( bes4) bes4 |
   b2 c'2 |
   cis'4\f cis'8. cis'16 cis'4 cis'4 |
@@ -96,9 +94,9 @@ tenorMusic = {
   aes4.\cresc aes8 g4 f4 |
   ees4 r4 r4 d'4\f |
   ees'4 bes4 b4. b8 |
-  b2 c'4 d'4 |
-  c'4\dim r4 c'4 r4 |
-  f2.\p aes4 |
+  b2 c'4\dim d'4 |
+  c'4 r4 c'4\p r4 |
+  f2. aes4 |
   g1\fermata \bar "|."
 }
 
@@ -107,27 +105,27 @@ tenorMusic = {
 %%% ------------------------------------------------------------
 bassMusic = {
   \global
-  ees4\p |
-  ees4 aes,4 bes,4. bes,8 |
-  ees2 bes,4 ees4 |
-  aes,4\< ees4 aes,4. aes,8 |
-  bes,2.\f ees4 |
-  ees4\p aes,4 bes,4. bes,8 |
-  ees2 bes,4 ees4 |
-  aes,4 ees4 bes,4. bes,8 |
-  ees2 r4 ees4\cresc |
-  ees4. ees8 c4 bes,4 |
-  ees2 bes,2 |
-  ees4\f ees8. ees16 ees4 aes,4 |
-  f2.\> bes,4 |
-  bes,4\pp ees4 bes,4. ees8 |
-  bes,2 ees4 aes,4 |
-  ees4.\cresc bes,8 aes,4 bes,4 |
-  ees2 r4 ees4\f |
-  ees4 bes,4 aes,4. bes,8 |
-  aes,2 ees4 bes,4 |
-  ees2\dim bes,2 |
-  ees2.\p bes,4 |
+  bes4\p |
+  g4 ees 4 d4. ees8 |
+  bes,2 bes,4 bes,4 |
+  bes,4\< bes,4 aes4. aes8 |
+  g2. f4\f |
+  ees4 g4 c'4. bes8 |
+  aes2 aes4 aes4\p |
+  aes,4 aes,4 bes,4. bes,8 |
+  ees2 r2 |
+  r4 ees4 d4 d4 |
+  f4. f8 ees4 ees4 |
+  g4\f g8. g16 g4 g4 |
+  fis2\> d2 |
+  g4\pp g,4 g,4 g,4 |
+  aes,1 |
+  bes,2 r4 bes,4 |
+  ees4\cresc g4 bes4.\sf aes8 |
+  g1\f |
+  g2.\dim g,4 |
+  c4 r4 aes,4\p r4 |
+  bes,2. bes,4 |
   ees1\fermata \bar "|."
 }
 
