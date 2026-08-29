@@ -31,8 +31,8 @@ melody = \absolute {
   e''8 c''8 r4 r4 c''8 b'8 |
   a'8 b'8 c''8 e'' ( e'') g''8 e''4 |
   fis''4. e''8 ( e''4) d''4~ |d''8 c''4. b'4 a'4 | 
-  \break
   d''8 r8 d''8 r8 d''8 r8 d''8 r8 | 
+  \break
   r8 b'8 d''8 b'8 d''8 b'8 d''4 | %It's fun to stay...
   e''2 d''4 e''8 d'' | %YMCA
   r8 e''8 e'' b' d'' b' a' g' |
@@ -100,7 +100,7 @@ text = \lyricmode {
   Höm -- ma, sag mal, das ist doch hier so Brauch,
   Oh ha, echt wahr -- kommt mit dic -- ken Schmeer -- bauch,  
   so ein ol -- ler Bür -- ger -- meis -- ter. 
-  ta ta ta ta
+  (ta ta ta ta)
   Und er will fei -- ern mit E M K -- W
   Wir fei -- ern al -- le heu -- te E M K -- W -
   Sind sie auch echt stein -- alt,
@@ -113,13 +113,13 @@ text = \lyricmode {
   Hof -- fen, dass ihr es jetzt be -- reut! 
   Hör mal, kennst du die Me -- lo -- die?
   Sei mal ehr -- lich, die er -- kennst du doch nie!
-  Hör ge -- nau hin, leich -- ter "kann’s" doch nicht sein,
+  Hör ge -- nau hin, leich -- ter "kann's" doch nicht sein,
   Ich geb gern ei -- nen Tipp euch zwei.
   Klo -- wi, bit -- te gib nicht so an. 
   Ich sag, Mar -- git, zü -- gel mal dei -- nen Mann. 
   Jetzt mal ehr -- lich, nie -- mand kann das, ich schwör
   Nur ein tol -- ler Ton -- in -- ge -- nieur. 
-  ta ta ta ta
+  (ta ta ta ta)
   Wir wol -- len fei -- ern mit E M K -- W
   Wir fei -- ern heu -- te rich -- tig E M K -- W - 
   Sind sie auch echt stein -- alt,
