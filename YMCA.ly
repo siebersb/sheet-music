@@ -14,19 +14,6 @@
 global = {
   \key g \major
   \time 4/4
-  \partial 4          % Auftakt: Länge anpassen oder Zeile löschen
-}
-
-%% ---------------- Akkorde ----------------
-harmonien = \chordmode {
-  s4                          % Platzhalter unter dem Auftakt
-  a2:7 d2/a  | g1  |          % z.B. A7/D  ->  a:7/d
-  e1:m       | c1  |
-  \repeat volta 2 {
-    d1 | g1
-  }
-  \alternative { { c1 } { d1 } }
-  g1
 }
 
 %% ---------------- Melodie ----------------
@@ -34,8 +21,10 @@ melodie = \absolute {
   \global
   \tempo "Moderato"
 
-  %% "Intro" als Textmarkierung über dem System
-  d'4^\markup { \box \bold "Intro" }
+  b'4. a'8 e'2 |
+  \autoBeamOff r8 b'8 a' d''16 b'8 b'16 a'8 e'4 |
+  b'4. a'8 e'2 |
+  \autoBeamOff r8 b'8 a' d''16 b'8 b'16 a'8 e'4 |
   g'4 a'4 b'4 c''4 | d''1 |
   b'4 a'4 g'4 fis'4 | g'1 |
 
@@ -68,7 +57,6 @@ stropheZwei = \lyricmode {
 
 \score {
   <<
-    \new ChordNames \harmonien
     \new Staff \new Voice = "mel" \melodie
     \new Lyrics \lyricsto "mel" \stropheEins
     \new Lyrics \lyricsto "mel" \stropheZwei
