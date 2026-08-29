@@ -23,7 +23,6 @@ melody = \absolute {
   e''8 c''8 r4 r4 c''8 b'8 |
   a'8 b'8 c''8 e'' ( e'') g''8 e''4|
   fis''4. e''8 ( e''4) d''4~ |d''8 c''4. b'4 a'4
-  \break
   d''8 b'8 r4 r4 b'8 a'8 | %Young Man
   g'8 a'8 b'8 d'' ( d'') b'8 d''4|
   e''8 b'8 r4 r4 b'8 a'8 |
@@ -32,7 +31,6 @@ melody = \absolute {
   a'8 b'8 c''8 e'' ( e'') g''8 e''4 |
   fis''4. e''8 ( e''4) d''4~ |d''8 c''4. b'4 a'4 | 
   d''8 r8 d''8 r8 d''8 r8 d''8 r8 | 
-  \break
   r8 b'8 d''8 b'8 d''8 b'8 d''4 | %It's fun to stay...
   e''2 d''4 e''8 d'' | %YMCA
   r8 e''8 e'' b' d'' b' a' g' |
@@ -50,7 +48,6 @@ melody = \absolute {
   g''8 e''8 g''8 e''8~e''4 g''8 e''8 |
   g''8 e'' d''8 g''8~ g''8  g''4 e''8~ |
   e''4 r2.|
-  \break
   d''8 b'8 r4 r4 b'8 a'8 | %Young Man
   g'8 a'8 b'8 d'' ( d'') b'8 d''4|
   e''8 b'8 r4 r4 b'8 a'8 |
@@ -58,7 +55,6 @@ melody = \absolute {
   e''8 c''8 r4 r4 c''8 b'8 |
   a'8 b'8 c''8 e'' ( e'') g''8 e''4|
   fis''4. e''8 ( e''4) d''4~ |d''8 c''4. b'4 a'4 |
-  \break
   d''8 b'8 r4 r4 b'8 a'8 | %Young Man
   g'8 a'8 b'8 d'' ( d'') b'8 d''4|
   e''8 b'8 r4 r4 b'8 a'8 |
@@ -66,8 +62,6 @@ melody = \absolute {
   e''8 c''8 r4 r4 c''8 b'8 |
   a'8 b'8 c''8 e'' ( e'') g''8 e''4|
   fis''4. e''8 ( e''4) d''4~ |d''8 c''4. b'4 a'4 |
-  \break
-  
   d''8 r8 d''8 r8 d''8 r8 d''8 r8 | 
   r8 b'8 d''8 b'8 d''8 b'8 d''4 |
   e''2 d''4 e''8 d'' | %YMCA
@@ -89,9 +83,9 @@ melody = \absolute {
 }
 
 text = \lyricmode {
-  La la la la la la la la la la 
+  (La la la la la la la la la la 
   La la la la la la la la la la
-  la la la la la la la  
+  la la la la la la la)
   Leu -- te, ich bin echt jetzt ver -- wirrt!
   Ich sag, Leu -- te, hab ich mich da ge -- irrt?
   Ich sag, Leu -- te, so alt wird doch kein Schwein: 
