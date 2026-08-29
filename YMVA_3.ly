@@ -13,73 +13,73 @@ melody = \relative {
   \autoBeamOff r8 b'8 a d16 b8 b16 a8 e4 |
   b'4. a8 e2 |
   \autoBeamOff r8 b'8 a d16 b8 b16 a8 e4 |
-  g'4. g16 g g4. g16 g |
+  g4. g16 g g4. g16 g |
   g1
   \break
+  d'8^\markup { \box \bold "Strophe" } b8 r4 r4 b8 a8 | %Young Man
+  g8 a8 b8 d ( d) b8 d4|
+  e8 b8 r4 r4 b8 a8 |
+  g8 a8 b8 d ( d) b8 d4|
+  e8 c8 r4 r4 c8 b8 |
+  a8 b8 c8 e ( e) g8 e4|
+  fis4. e8 ( e4) d4~ |d8 c4. b4 a4
+  d8 b8 r4 r4 b8 a8 | %Young Man
+  g8 a8 b8 d ( d) b8 d4|
+  e8 b8 r4 r4 b8 a8 |
+  g8 a8 b8 d ( d) b8 d4|
+  e8 c8 r4 r4 c8 b8 |
+  a8 b8 c8 e ( e) g8 e4 |
+  fis4. e8 ( e4) d4~ |d8 c4. b4 a4 | 
+  d8^\markup { \box \bold "Refrain" } r8 d8 r8 d8 r8 d8 r8 | 
+  r8 b8 d8 b8 d8 b8 d4 | %It's fun to stay...
+  e2 d4 e8 d | %YMCA
+  r8 e8 e b d b a g |
+  a2 g4 a8 g~ | 
+  8 e4. r4 g'8 e8|
+  g8 e8 g8 e8~e4 g8 e |
+  g8 e8 g8 e8~4 g8 e |
+  g8 e d8 g8~ g8  g4 e8~ |
+  e8 b d b d b d4|
+  e2 d4 e8 d | %YMCA
+  r8 e8 e b d b a g |
+  a2 g4 a8 g~ | 
+  8 e4. r4 g'8 e8|
+  g8 e8 g8 e8~ 4 g8 e8 |
+  g8 e8 g8 e8~e4 g8 e8 |
+  g8 e d8 g8~ g8 g4 e8~ |
+  e4 r2.|
   d8^\markup { \box \bold "Strophe" } b8 r4 r4 b8 a8 | %Young Man
-  g'8 a'8 b'8 d'' ( d'') b'8 d''4|
-  e''8 b'8 r4 r4 b'8 a'8 |
-  g'8 a'8 b'8 d'' ( d'') b'8 d''4|
-  e''8 c''8 r4 r4 c''8 b'8 |
-  a'8 b'8 c''8 e'' ( e'') g''8 e''4|
-  fis''4. e''8 ( e''4) d''4~ |d''8 c''4. b'4 a'4
-  d''8 b'8 r4 r4 b'8 a'8 | %Young Man
-  g'8 a'8 b'8 d'' ( d'') b'8 d''4|
-  e''8 b'8 r4 r4 b'8 a'8 |
-  g'8 a'8 b'8 d'' ( d'') b'8 d''4|
-  e''8 c''8 r4 r4 c''8 b'8 |
-  a'8 b'8 c''8 e'' ( e'') g''8 e''4 |
-  fis''4. e''8 ( e''4) d''4~ |d''8 c''4. b'4 a'4 | 
-  d''8^\markup { \box \bold "Refrain" } r8 d''8 r8 d''8 r8 d''8 r8 | 
-  r8 b'8 d''8 b'8 d''8 b'8 d''4 | %It's fun to stay...
-  e''2 d''4 e''8 d'' | %YMCA
-  r8 e''8 e'' b' d'' b' a' g' |
-  a'2 g'4 a'8 g'~ | %YMCA
-  g'8 e'4. r4 g''8 e''8|
-  g''8 e''8 g''8 e''8~e''4 g''8 e''8 |
-  g''8 e''8 g''8 e''8~e''4 g''8 e''8 |
-  g''8 e'' d''8 g''8~ g''8  g''4 e''8~ |
-  e''8 b' d'' b' d'' b' d''4|
-  e''2 d''4 e''8 d'' |
-  r8 e''8 e'' b' d'' b' a' g' |
-  a'2 g'4 a'8 g'~ | %YMCA
-  8 e'4. r4 g''8 e''8|
-  g''8 e''8 g''8 e''8~ 4 g''8 e''8 |
-  g''8 e''8 g''8 e''8~e''4 g''8 e''8 |
-  g''8 e'' d''8 g''8~ g''8  g''4 e''8~ |
-  e''4 r2.|
-  d''8 b'8 r4 r4 b'8 a'8 | %Young Man
-  g'8 a'8 b'8 d'' ( d'') b'8 d''4|
-  e''8 b'8 r4 r4 b'8 a'8 |
-  g'8 a'8 b'8 d'' ( d'') b'8 d''4|
-  e''8 c''8 r4 r4 c''8 b'8 |
-  a'8 b'8 c''8 e'' ( e'') g''8 e''4|
-  fis''4. e''8 ( e''4) d''4~ |d''8 c''4. b'4 a'4 |
-  d''8 b'8 r4 r4 b'8 a'8 | %Young Man
-  g'8 a'8 b'8 d'' ( d'') b'8 d''4|
-  e''8 b'8 r4 r4 b'8 a'8 |
-  g'8 a'8 b'8 d'' ( d'') b'8 d''4|
-  e''8 c''8 r4 r4 c''8 b'8 |
-  a'8 b'8 c''8 e'' ( e'') g''8 e''4|
-  fis''4. e''8 ( e''4) d''4~ |d''8 c''4. b'4 a'4 |
-  d''8 r8 d''8 r8 d''8 r8 d''8 r8 | 
-  r8 b'8 d''8 b'8 d''8 b'8 d''4 |
-  e''2 d''4 e''8 d'' | %YMCA
-  r8 e''8 e'' b' d'' b' a' g' |
-  a'2 g'4 a'8 g'~ |
-  g'8 e'4. r4 g''8 e''8|
-  g''8 e''8 g''8 e''8~e''4 g''8 e''8 |
-  g''8 e''8 g''8 e''8~e''4 g''8 e''8 |
-  g''8 e'' d''8 g''8~ g''8  g''4 e''8~ |
-  e''8 b' d'' b' d'' b' d''4|
-  e''2 d''4 e''8 d'' |
-  r8 e''8 e'' b' d'' b' a' g' |
-  a'2 g'4 a'8 g'~ |
-  g'8 e'4. r4 g''8 e''8|
-  g''8 e''8 g''8 e''8~e''4 g''8 e''8 |
-  g''8 e''8 g''8 e''8~e''4 g''8 e''8 |
-  g''8 e'' d''8 g''8~ g''8  g''4 e''8~ |
-  e''4 r2.\bar "|."
+  g8 a8 b8 d ( d) b8 d4|
+  e8 b8 r4 r4 b8 a8 |
+  g8 a8 b8 d ( d) b8 d4|
+  e8 c8 r4 r4 c8 b8 |
+  a8 b8 c8 e ( e) g8 e4|
+  fis4. e8 ( e4) d4~ |d8 c4. b4 a4
+  d8 b8 r4 r4 b8 a8 | %Young Man
+  g8 a8 b8 d ( d) b8 d4|
+  e8 b8 r4 r4 b8 a8 |
+  g8 a8 b8 d ( d) b8 d4|
+  e8 c8 r4 r4 c8 b8 |
+  a8 b8 c8 e ( e) g8 e4 |
+  fis4. e8 ( e4) d4~ |d8 c4. b4 a4 | 
+  d8^\markup { \box \bold "Refrain" } r8 d8 r8 d8 r8 d8 r8 | 
+  r8 b8 d8 b8 d8 b8 d4 | %It's fun to stay...
+  e2 d4 e8 d | %YMCA
+  r8 e8 e b d b a g |
+  a2 g4 a8 g~ | 
+  8 e4. r4 g'8 e8|
+  g8 e8 g8 e8~e4 g8 e |
+  g8 e8 g8 e8~4 g8 e |
+  g8 e d8 g8~ g8  g4 e8~ |
+  e8 b d b d b d4|
+  e2 d4 e8 d | %YMCA
+  r8 e8 e b d b a g |
+  a2 g4 a8 g~ | 
+  8 e4. r4 g'8 e8|
+  g8 e8 g8 e8~ 4 g8 e8 |
+  g8 e8 g8 e8~e4 g8 e8 |
+  g8 e d8 g8~ g8 g4 e8~ |
+  e4 r2.\bar "|."
 }
 
 text = \lyricmode {
