@@ -70,7 +70,7 @@ sopranoVerseTwo = \lyricmode {
 }
 
 sopranoVerseThree = \lyricmode {
-  O Klaus Mar -- git und E -- le, dass wir bei -- sam -- men sind
+  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
   mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
   "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
   Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet,
@@ -123,7 +123,7 @@ altoVerseTwo = \lyricmode {
 }
 
 altoVerseThree = \lyricmode {
-  O Klaus Mar -- git und E -- le, dass wir bei -- sam -- men sind
+  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
   mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
   "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
   Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet,
@@ -176,7 +176,7 @@ tenorVerseTwo = \lyricmode {
 }
 
 tenorVerseThree = \lyricmode {
-  O Klaus Mar -- git und E -- le, dass wir bei -- sam -- men sind
+  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
   mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
   "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
   Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet,
@@ -229,7 +229,7 @@ bassVerseTwo = \lyricmode {
 }
 
 bassVerseThree = \lyricmode {
-  O Klaus Mar -- git und E -- le, dass wir bei -- sam -- men sind
+  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
   mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
   "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
   Gleich ge -- hen wir leicht schwan -- kend, gleich ge -- hen wir leicht schwan -- kend 
