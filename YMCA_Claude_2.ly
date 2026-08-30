@@ -55,7 +55,7 @@ melody = \relative {
     8 e4. r4 g'8 e8 |
     g8 e8 g8 e8~ 4 g8 e8 |
     g8 e8 g8 e8~ e4 g8 e8 |
-    g8 e d8 g8~ g8 g4 e8~ |
+    g8 e d8 \tuplet 3/2 { g4 g g } e8~ |
     e4 r2. |
   }
 }
@@ -88,7 +88,7 @@ textEins = \lyricmode {
   Wir fei -- ern heu -- te rich -- tig E M K -- W -
   Kein Weg wur -- de ge -- scheut,
   Uns aufs Dich -- ten ge -- freut,
-  Hof -- fen, dass ihr es jetzt be -- reut!
+  Hof -- fen, dass ihr es jetzt nicht be -- reut!
 }
 
 textZwei = \lyricmode {
@@ -115,7 +115,7 @@ textZwei = \lyricmode {
   Wir fei -- ern heu -- te rich -- tig E M K -- W -
   Hebt die Glä -- ser jetzt an,
   Heu -- te fei -- ern wir lang,
-  Viel Ge -- sund -- heit und Glück von–nun an!
+  Viel Ge -- sund -- heit und Glück von nun an!
 }
 
 harmonies = \chordmode {
