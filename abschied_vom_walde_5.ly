@@ -62,19 +62,11 @@ sopranoVerseOne = \lyricmode {
 }
 
 sopranoVerseTwo = \lyricmode {
-  O gro -- ßer Künst -- ler E -- le wir brau -- chen ei -- ne Stroph'
-  -e um dich  auch zu eh -- ren sonst wird das Lied so doof.
-  Wir Nichts -- kön -- ner tun al -- les, da -- mit es dir ge -- fällt! 
-  Jetzt könnt ihr app -- lau -- die -- ren bis dass die Hei -- di bellt,
-  Jetzt könnt ihr app -- lau -- die -- ren bis dass die Hei -- di bellt!
-}
-
-sopranoVerseThree = \lyricmode {
-  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
-  mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
-  "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
-  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet,
-  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet!
+  O Mar -- git Klaus und E -- le wir wün -- schen uns, dass euch
+  es künf -- tig an nichts feh -- le, man braucht ja nicht viel Zeug,
+  Wenn man hat sei -- ne Lieb -- sten um sich he -- rum ver -- eint. 
+  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein,
+  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein.
 }
 
 altoMusic = \absolute {
@@ -107,27 +99,19 @@ altoMusic = \absolute {
 }
 
 altoVerseOne = \lyricmode {
-  O Mar -- git, Klaus und E -- le  wie habt ihr das ge -- macht?
-  mit hun -- dert -- fünf -- und -- ach -- zig, wer hät -- te das ge -- dacht,
-  seid ihr noch ganz ge -- len -- kig, seht auch noch blen -- dend aus.
+  O Mar -- git Klaus und E -- le wie habt ihr das ge -- macht?
+  mit hun -- dert -- fünf -- und -- zwan -- zig, wer hät -- te das ge -- dacht,
+  seid ihr noch ganz ge -- len -- kig, seht auch noch blend -- dend aus
   Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus,
   Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus!
 }
 
 altoVerseTwo = \lyricmode {
-  O E -- le, Mar -- git, Klo -- wi wir wün -- schen euch viel Glück
-  Ge -- sund -- heit und viel Freu -- de, La -- kritz, ein gro -- ßes Stück.
-  Der Wein soll auch nicht feh -- len für eu -- re Ver -- jün -- gung
-  Und Ei -- er, frisch ge -- leg -- te, die brin -- gen euch in Schwung,
-  Und Ei -- er, frisch ge -- leg -- te, die brin -- gen euch in Schwung!
-}
-
-altoVerseThree = \lyricmode {
-  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
-  mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
-  "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
-  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet,
-  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet!
+  O Mar -- git Klaus und E -- le wir wün -- schen uns, dass euch
+  es künf -- tig an nichts feh -- le, man braucht ja nicht viel Zeug,
+  Wenn man hat sei -- ne Lieb -- sten um sich he -- rum ver -- eint. 
+  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein,
+  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein.
 }
 
 tenorMusic = \absolute {
@@ -160,27 +144,19 @@ tenorMusic = \absolute {
 }
 
 tenorVerseOne = \lyricmode {
-  O Mar -- git, Klaus und E -- le  wie habt ihr das ge -- macht?
-  mit hun -- dert -- fünf -- und -- ach -- zig, wer hät -- te das ge -- dacht,
-  seid ihr noch ganz ge -- len -- kig, seht auch noch blen -- dend aus.
+  O Mar -- git Klaus und E -- le wie habt ihr das ge -- macht?
+  mit hun -- dert -- fünf -- und -- zwan -- zig, wer hät -- te das ge -- dacht,
+  seid ihr noch ganz ge -- len -- kig, seht auch noch blend -- dend aus
   Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus,
   Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus!
 }
 
 tenorVerseTwo = \lyricmode {
-  O E -- le, Mar -- git, Klo -- wi wir wün -- schen euch viel Glück
-  Ge -- sund -- heit und viel Freu -- de, La -- kritz, ein gro -- ßes Stück.
-  Der Wein soll auch nicht feh -- len für eu -- re Ver -- jüng -- ung
-  Und Ei -- er, frisch ge -- leg -- te, die brin -- gen euch in Schwung,
-  Und Ei -- er, frisch ge -- leg -- te, die brin -- gen euch in Schwung!
-}
-
-tenorVerseThree = \lyricmode {
-  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
-  mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
-  "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
-  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet,
-  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet!
+  O Mar -- git Klaus und E -- le wir wün -- schen uns, dass euch
+  es künf -- tig an nichts feh -- le, man braucht ja nicht viel Zeug,
+  Wenn man hat sei -- ne Lieb -- sten um sich he -- rum ver -- eint. 
+  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein,
+  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein.
 }
 
 bassMusic = \absolute {
@@ -213,27 +189,19 @@ bassMusic = \absolute {
 }
 
 bassVerseOne = \lyricmode {
-  O Mar -- git, Klaus und E -- le  wie habt ihr das ge -- macht?
-  mit hun -- dert -- fünf -- und -- ach -- zig, wer hät -- te das ge -- dacht,
-  seid ihr noch ganz ge -- len -- kig, seht auch noch blen -- dend aus.
-  Das ist nicht selbst -- ver -- ständ -- lich, Das ist nicht selbst -- ver -- ständ -- lich,
+  O Mar -- git Klaus und E -- le wie habt ihr das ge -- macht?
+  mit hun -- dert -- fünf -- und -- zwan -- zig, wer hät -- te das ge -- dacht,
+  seid ihr noch ganz ge -- len -- kig, seht auch noch blend -- dend aus
+  Das ist nicht selbst -- ver -- ständ -- lich, Das ist nicht selbst -- ver -- ständ -- lich, 
   be -- son -- ders für den Klaus!
 }
 
 bassVerseTwo = \lyricmode {
-  O E -- le, Mar -- git, Klo -- wi wir wün -- schen euch viel Glück
-  Ge -- sund -- heit und viel Freu -- de, La -- kritz, ein gro -- ßes Stück.
-  Der Wein soll auch nicht feh -- len für eu -- re Ver -- jüng -- ung
-  Und Ei -- er, frisch ge -- leg -- te, und Ei -- er, frisch ge -- leg -- te,
-  die brin -- gen euch in Schwung!
-}
-
-bassVerseThree = \lyricmode {
-  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
-  mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
-  "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
-  Gleich ge -- hen wir leicht schwan -- kend, gleich ge -- hen wir leicht schwan -- kend 
-  noch -- mal an das Buf -- fet!
+  O Mar -- git Klaus und E -- le wir wün -- schen uns, dass euch
+  es künf -- tig an nichts feh -- le, man braucht ja nicht viel Zeug,
+  Wenn man hat sei -- ne Lieb -- sten um sich he -- rum ver -- eint. 
+  Drum fei -- ert ganz ver -- gnüg -- lich, drum fei -- ert ganz ver -- gnüg -- lich,
+  und trinkt noch ein Glas Wein.
 }
 
 \score {
@@ -241,19 +209,15 @@ bassVerseThree = \lyricmode {
     \new Staff = "soprano" \new Voice = "soprano" { \global \sopranoMusic }
     \new Lyrics \lyricsto "soprano" { \set stanza = "1." \sopranoVerseOne }
     \new Lyrics \lyricsto "soprano" { \set stanza = "2." \sopranoVerseTwo }
-    \new Lyrics \lyricsto "soprano" { \set stanza = "3." \sopranoVerseThree }
     \new Staff = "alto" \new Voice = "alto" { \global \altoMusic }
     \new Lyrics \lyricsto "alto" { \set stanza = "1." \altoVerseOne }
     \new Lyrics \lyricsto "alto" { \set stanza = "2." \altoVerseTwo }
-    \new Lyrics \lyricsto "alto" { \set stanza = "3." \altoVerseThree }
     \new Staff = "tenor" \new Voice = "tenor" { \global \tenorMusic }
     \new Lyrics \lyricsto "tenor" { \set stanza = "1." \tenorVerseOne }
     \new Lyrics \lyricsto "tenor" { \set stanza = "2." \tenorVerseTwo }
-    \new Lyrics \lyricsto "tenor" { \set stanza = "3." \tenorVerseThree }
     \new Staff = "bass" \new Voice = "bass" { \global \bassMusic }
     \new Lyrics \lyricsto "bass" { \set stanza = "1." \bassVerseOne }
     \new Lyrics \lyricsto "bass" { \set stanza = "2." \bassVerseTwo }
-    \new Lyrics \lyricsto "bass" { \set stanza = "3." \bassVerseThree }
   >>
   \layout { }
   \midi { \tempo 4 = 72 }
