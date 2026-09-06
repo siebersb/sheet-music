@@ -102,7 +102,7 @@ textZwei = \lyricmode {
   Klo -- wi, bit -- te gib nicht so an.
   Ich sag, Mar -- git, zü -- gel mal dei -- nen Mann.
   Jetzt mal ehr -- lich, nie -- mand kann das, ich schwör
-  Nur ein tol -- ler Ton -- in -- ge -- nieur.
+  Nur der toll -- ste Dom -- Ton -- meis -- "te(u)r."
 
   \repeat unfold 0 { \skip 0 }           % "ta ta ta ta": kein Text
 
