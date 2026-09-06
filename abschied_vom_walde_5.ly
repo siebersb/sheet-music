@@ -1,11 +1,7 @@
 \version "2.24.0"
 
 \header {
-  title = "Abschied vom Walde"
-  subtitle = "O Täler weit, o Höhen, Op. 59, № 3; 1843"
-  poet = "Joseph von Eichendorff (1788–1857)"
-  composer = "Felix Mendelssohn Bartholdy (1809–1847)"
-  tagline = ##f
+  title = " Täler weit, o Höhen"
 }
 
 #(set-global-staff-size 16)
@@ -219,6 +215,6 @@ bassVerseTwo = \lyricmode {
     \new Lyrics \lyricsto "bass" { \set stanza = "1." \bassVerseOne }
     \new Lyrics \lyricsto "bass" { \set stanza = "2." \bassVerseTwo }
   >>
-  \layout { }
-  \midi { \tempo 4 = 112 }
+    \layout { }
+    \midi { \tempo 4 = 112 }
 }
