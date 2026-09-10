@@ -8,7 +8,7 @@
 
 \paper {
   #(set-paper-size "a4")
-  ragged-last-bottom = ##t
+  ragged-last-bottom = ##t  
 }
 
 global = {
@@ -65,6 +65,15 @@ sopranoVerseTwo = \lyricmode {
   Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein.
 }
 
+sopranoVerseThree = \lyricmode {
+  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
+  mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
+  "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
+  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet,
+  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet!
+}
+
+altoMusic 
 altoMusic = \absolute {
   \clef "treble"
   bes'4\p |
@@ -108,6 +117,14 @@ altoVerseTwo = \lyricmode {
   Wenn man hat sei -- ne Lieb -- sten um sich he -- rum ver -- eint. 
   Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein,
   Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein.
+}
+
+altoVerseThree = \lyricmode {
+  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
+  mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
+  "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
+  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet,
+  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet!
 }
 
 tenorMusic = \absolute {
@@ -155,6 +172,14 @@ tenorVerseTwo = \lyricmode {
   Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein.
 }
 
+tenorVerseThree = \lyricmode {
+  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
+  mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
+  "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
+  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet,
+  Gleich ge -- hen wir leicht schwan -- kend noch -- mal an das Buf -- fet!
+}
+
 bassMusic = \absolute {
   \clef "bass"
   bes4\p |
@@ -200,20 +225,32 @@ bassVerseTwo = \lyricmode {
   und trinkt noch ein Glas Wein.
 }
 
+bassVerseThree = \lyricmode {
+  O Klo -- wi Mar -- git E -- le, dass wir bei -- sam -- men sind
+  mit Es -- sen und mit Trin -- ken, mit Ke -- gel und mit Kind,
+  "hab'n" wir euch zu ver -- dan -- ken, war 'ne su -- per I -- dee!
+  Gleich ge -- hen wir leicht schwan -- kend, gleich ge -- hen wir leicht schwan -- kend 
+  noch -- mal an das Buf -- fet!
+}
+
 \score {
-  \new ChoirStaff <<
+   \new ChoirStaff <<
     \new Staff = "soprano" \new Voice = "soprano" { \global \sopranoMusic }
     \new Lyrics \lyricsto "soprano" { \set stanza = "1." \sopranoVerseOne }
     \new Lyrics \lyricsto "soprano" { \set stanza = "2." \sopranoVerseTwo }
+    \new Lyrics \lyricsto "soprano" { \set stanza = "3." \sopranoVerseThree }
     \new Staff = "alto" \new Voice = "alto" { \global \altoMusic }
     \new Lyrics \lyricsto "alto" { \set stanza = "1." \altoVerseOne }
     \new Lyrics \lyricsto "alto" { \set stanza = "2." \altoVerseTwo }
+    \new Lyrics \lyricsto "alto" { \set stanza = "3." \altoVerseThree }
     \new Staff = "tenor" \new Voice = "tenor" { \global \tenorMusic }
     \new Lyrics \lyricsto "tenor" { \set stanza = "1." \tenorVerseOne }
     \new Lyrics \lyricsto "tenor" { \set stanza = "2." \tenorVerseTwo }
+    \new Lyrics \lyricsto "tenor" { \set stanza = "3." \tenorVerseThree }
     \new Staff = "bass" \new Voice = "bass" { \global \bassMusic }
     \new Lyrics \lyricsto "bass" { \set stanza = "1." \bassVerseOne }
     \new Lyrics \lyricsto "bass" { \set stanza = "2." \bassVerseTwo }
+    \new Lyrics \lyricsto "bass" { \set stanza = "3." \bassVerseThree }
   >>
     \layout { }
     \midi { \tempo 4 = 112 }
