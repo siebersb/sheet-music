@@ -54,15 +54,15 @@ sopranoVerseOne = \lyricmode {
   mit hun -- dert -- fünf -- und -- acht -- zig, wer hät -- te das ge -- dacht,
   seid ihr noch ganz ge -- len -- kig, seht auch noch blend -- dend aus
   Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus,
-  Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus!
+  Er wird heut fünf -- und -- sech -- zig und sieht doch blen -- dend aus!
 }
 
 sopranoVerseTwo = \lyricmode {
-  O Mar -- git Klaus und E -- le wir wün -- schen uns, dass euch
-  es künf -- tig an nichts feh -- le, man braucht ja nicht viel Zeug,
-  Wenn man hat sei -- ne Lieb -- sten um sich he -- rum ver -- eint. 
-  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein,
-  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein.
+  Ma -- schit -- te, Klo -- wi, Ga -- bi in Zu -- kunft wei -- ter Glück 
+  Ge -- sund -- heit und viel Freu -- de, La -- kritz, ein gro -- ßes Stück.
+  Der Wein soll auch nicht feh -- len beim Son -- nen -- un -- ter -- gang
+  Ein wun -- der -- ba -- res Le -- ben, da -- rauf stos -- sen wir an.
+  Ein wun -- der -- ba -- res Le -- ben, da -- rauf stos -- sen wir an!
 }
 
 altoMusic = \absolute {
@@ -99,15 +99,15 @@ altoVerseOne = \lyricmode {
   mit hun -- dert -- fünf -- und -- acht -- zig, wer hät -- te das ge -- dacht,
   seid ihr noch ganz ge -- len -- kig, seht auch noch blend -- dend aus
   Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus,
-  Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus!
+  Er wird heut fünf -- und -- sech -- zig und sieht doch blen -- dend aus!
 }
 
 altoVerseTwo = \lyricmode {
-  O Mar -- git Klaus und E -- le wir wün -- schen uns, dass euch
-  es künf -- tig an nichts feh -- le, man braucht ja nicht viel Zeug,
-  Wenn man hat sei -- ne Lieb -- sten um sich he -- rum ver -- eint. 
-  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein,
-  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein.
+  Ma -- schit -- te, Klo -- wi, Ga -- bi in Zu -- kunft wei -- ter Glück 
+  Ge -- sund -- heit und viel Freu -- de, La -- kritz, ein gro -- ßes Stück.
+  Der Wein soll auch nicht feh -- len beim Son -- nen -- un -- ter -- gang
+  Ein wun -- der -- ba -- res Le -- ben, da -- rauf stos -- sen wir an.
+  Ein wun -- der -- ba -- res Le -- ben, da -- rauf stos -- sen wir an!
 }
 
 tenorMusic = \absolute {
@@ -144,15 +144,15 @@ tenorVerseOne = \lyricmode {
   mit hun -- dert -- fünf -- und -- acht -- zig, wer hät -- te das ge -- dacht,
   seid ihr noch ganz ge -- len -- kig, seht auch noch blend -- dend aus
   Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus,
-  Das ist nicht selbst -- ver -- ständ -- lich, be -- son -- ders für den Klaus!
+  Er wird heut fünf -- und -- sech -- zig und sieht doch blen -- dend aus!
 }
 
 tenorVerseTwo = \lyricmode {
-  O Mar -- git Klaus und E -- le wir wün -- schen uns, dass euch
-  es künf -- tig an nichts feh -- le, man braucht ja nicht viel Zeug,
-  Wenn man hat sei -- ne Lieb -- sten um sich he -- rum ver -- eint. 
-  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein,
-  Drum fei -- ert ganz ver -- gnüg -- lich und trinkt noch ein Glas Wein.
+  Ma -- schit -- te, Klo -- wi, Ga -- bi in Zu -- kunft wei -- ter Glück 
+  Ge -- sund -- heit und viel Freu -- de, La -- kritz, ein gro -- ßes Stück.
+  Der Wein soll auch nicht feh -- len beim Son -- nen -- un -- ter -- gang
+  Ein wun -- der -- ba -- res Le -- ben, da -- rauf stos -- sen wir an.
+  Ein wun -- der -- ba -- res Le -- ben, da -- rauf stos -- sen wir an!
 }
 
 bassMusic = \absolute {
@@ -189,15 +189,15 @@ bassVerseOne = \lyricmode {
   mit hun -- dert -- fünf -- und -- acht -- zig, wer hät -- te das ge -- dacht,
   seid ihr noch ganz ge -- len -- kig, seht auch noch blend -- dend aus
   Das ist nicht selbst -- ver -- ständ -- lich, Das ist nicht selbst -- ver -- ständ -- lich, 
-  be -- son -- ders für den Klaus!
+  und sieht doch blen -- dend aus!
 }
 
 bassVerseTwo = \lyricmode {
-  O Mar -- git Klaus und E -- le wir wün -- schen uns, dass euch
-  es künf -- tig an nichts feh -- le, man braucht ja nicht viel Zeug,
-  Wenn man hat sei -- ne Lieb -- sten um sich he -- rum ver -- eint. 
-  Drum fei -- ert ganz ver -- gnüg -- lich, drum fei -- ert ganz ver -- gnüg -- lich,
-  und trinkt noch ein Glas Wein.
+  Ma -- schit -- te, Klo -- wi, Ga -- bi in Zu -- kunft wei -- ter Glück 
+  Ge -- sund -- heit und viel Freu -- de, La -- kritz, ein gro -- ßes Stück.
+  Der Wein soll auch nicht feh -- len beim Son -- nen -- un -- ter -- gang
+  Ein wun -- der -- ba -- res Le -- ben, ein wun -- der -- ba -- res Le -- ben, 
+  da -- rauf stos -- sen wir an!
 }
 
 \score {
