@@ -216,5 +216,5 @@ bassVerseTwo = \lyricmode {
     \new Lyrics \lyricsto "bass" { \set stanza = "2." \bassVerseTwo }
   >>
     \layout { }
-    \midi { \tempo 4 = 112 }
+    \midi { \tempo 4 = 104 }
 }
