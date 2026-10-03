@@ -1,8 +1,7 @@
 \version "2.26.0"
 
 \header {
-  title = "E-M-K-W"
-  composer = "U.N."
+  title = "L-U-K-I"
 }
 
 melody = \relative {
