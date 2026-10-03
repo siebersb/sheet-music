@@ -68,53 +68,54 @@ textEins = \lyricmode {
   \repeat unfold 27 { \skip 1 }          % Intro: kein Text
   \set stanza = "1."
 
-  Leu -- te, ich bin echt jetzt ver -- wirrt!
-  Ich sag, Leu -- te, hab ich mich da ge -- irrt?
-  Ich sag, Leu -- te, so alt wird doch kein Schwein:
-  Sind es Hun -- dert -- fünf -- und -- acht -- zig?
-  Sag mal, dann kommt ei -- gent -- lich auch,
-  Höm -- ma, sag mal, das ist doch hier so Brauch,
-  Oh ha, echt wahr -- kommt mit dic -- ken Schmeer -- bauch,
-  so ein ol -- ler Bür -- ger -- meis -- ter.
-
+  Lu -- ki, wir sind schon wie -- der hier,
+  fünf -- zig Jah -- re fei -- ern wir mit viel Bier.
+  Pool -- boy, Schi -- ri, Spare -- ribs schnell auf den Grill.
+  Zu be -- rich -- ten gibt es heut viel.
+  E -- gon, re -- no -- vierst je -- des Haus,
+  Möhr -- chen -- krie -- ge da -- mit kennst du dich aus.
+  Dass man schon -- mal se -- ine Bei -- ne ver -- liert,
+  das hat die Fa -- mi -- lie ka -- piert.
+  
   \repeat unfold 0 { \skip 0 }           % "ta ta ta ta": kein Text
 
-  Und er will fei -- ern mit E M K -- W
-  Wir fei -- ern al -- le heu -- te E M K -- W -
-  Sind sie auch echt stein -- alt,
-  Schon et -- was durch -- ge -- knallt,
-  Fei -- ern dür -- fen wir heut mit "ihn'n!"
-  Wir wol -- len fei -- ern mit E M K -- W
-  Wir fei -- ern heu -- te rich -- tig E M K -- W -
-  Kein Weg wur -- de ge -- scheut,
-  Uns aufs Dich -- ten ge -- freut,
-  Hof -- fen, dass ihr es jetzt nicht be -- reut!
+  Wir fei -- ern fünf -- zig Jahr' L U K I.
+  Al -- lein -- er -- ziehn -- der Va -- ter L U K I -
+  Stell dich doch nicht so an!
+  Streich die Wand noch -- mal an!
+  Hät -- test du mir doch zu -- ge -- hört!
+  Wir wol -- len fei -- ern mit L U K I
+  Wir fei -- ern heu -- te rich -- tig L U K I -
+  Per -- fect Draft steht be -- reit,
+  ha -- ben uns schon ge -- freut,
+  kei -- nen Weg ha -- ben wir heut ge -- scheut.
 }
 
 textZwei = \lyricmode {
   \repeat unfold 27 { \skip 1 }          % Intro: kein Text
   \set stanza = "2."
 
-  Hör mal, kennst du die Me -- lo -- die?
-  Sei mal ehr -- lich, die er -- kennst du doch nie!
-  Hör ge -- nau hin, leich -- ter "kann's" doch nicht sein,
-  Ich geb gern ei -- nen Tipp euch zwei.
-  Klo -- wi, bit -- te gib nicht so an.
-  Ich sag, Mar -- git, zü -- gel mal dei -- nen Mann.
-  Jetzt mal ehr -- lich, nie -- mand kann das, ich schwör
-  Nur der toll -- ste Dom -- Ton -- meis -- "te(u)r."
+  Höm -- ma, wie alt wird denn ein Pferd?
+  Ich sag, Stef -- fi, das ham wir schnell ge -- klärt.
+  Fut -- ter, Huf -- schmied, Stall und Ste -- fan, oh Schreck,
+  Hun -- dert -- acht -- zig -- tau -- send sind weg.
+  Jo -- si, Pau -- li, hört uns mal zu,
+  D K Ka -- ha und ihr steht stramm im Nu.
+  Jetzt mal ehr -- lich, bes -- ter Pa -- pa der Welt
+  Wird ge -- fei -- ert heu -- te der Held.
+
 
   \repeat unfold 0 { \skip 0 }           % "ta ta ta ta": kein Text
 
-  Wir wol -- len fei -- ern mit E M K -- W
-  Wir fei -- ern heu -- te rich -- tig E M K -- W -
-  Sind sie auch echt stein -- alt,
-  Schon et -- was durch -- ge -- knallt,
-  Fei -- ern dür -- fen wir heut mit "ihn'n!"
-  Wir wol -- len fei -- ern mit E M K -- W
-  Wir fei -- ern heu -- te rich -- tig E M K -- W -
+  Wir fei -- ern fünf -- zig Jahr' L U K I.
+  Al-- lein -- er -- ziehn -- der Va -- ter L U K I -.
+  Ist er jetzt auch stein -- alt,
+  schon et -- was durch -- ge -- knallt,
+  fei -- ern wol -- len wir heut mit ihm.
+  Wir wol -- len fei -- ern mit L U K I
+  Wir fei -- ern heu -- te rich -- tig L U K I -
   Hebt die Glä -- ser jetzt an,
-  Heu -- te fei -- ern wir lang,
+  heu -- te fei -- ern wir lang.
   Viel Ge -- sund -- heit und Glück von nun an!
 }
 
